@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/riddle-game/static/css/main.e6c13ad2.css",
+    "main.js": "/riddle-game/static/js/main.416ce5aa.js",
+    "static/js/453.3080c417.chunk.js": "/riddle-game/static/js/453.3080c417.chunk.js",
+    "index.html": "/riddle-game/index.html",
+    "main.e6c13ad2.css.map": "/riddle-game/static/css/main.e6c13ad2.css.map",
+    "main.416ce5aa.js.map": "/riddle-game/static/js/main.416ce5aa.js.map",
+    "453.3080c417.chunk.js.map": "/riddle-game/static/js/453.3080c417.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.416ce5aa.js"
+  ]
+}
